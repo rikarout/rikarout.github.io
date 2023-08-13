@@ -1,11 +1,15 @@
 a{
   text-decoration: underline;
-  color: blue;'
+  color: blue;
   cursor: pointer;
 }
 
 a:visited{
   color:red;
+}
+
+a:active{
+  color: blue;
 }
 
 a:hover{
