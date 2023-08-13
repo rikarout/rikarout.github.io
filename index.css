@@ -1,9 +1,10 @@
 a{
   text-decoration: underline;
-  Color: blue;
+  Color: blue;'
+  cursor: pointer;
 }
 
 a:hover{
-  text-decoration: underline;
+  text-decoration: none;
   color: #000080;
 }
