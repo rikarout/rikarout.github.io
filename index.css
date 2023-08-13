@@ -1,0 +1,33 @@
+*{
+    background-color: rgba(255, 239, 64, 0.396);
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(226, 150, 35, 0.5);
+}
+
+h2{
+    text-align: center;
+    background-color: rgba(226, 150, 35, 0.5);
+}
+
+table{
+    border: 2px solid black;
+    display: table;
+    box-sizing: border-box;
+    color:black;
+    margin: 0 auto;
+    width: 800px;
+}
+th{
+    background-color: rgba(255, 0, 0, 0.6);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(red, green, blue);   
+}
+
+td{
+    border-top: 1px solid black;
+    background-color: rgba(204, 255, 0, 0.6);
+}
