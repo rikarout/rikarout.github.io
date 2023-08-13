@@ -4,6 +4,10 @@ a{
   cursor: pointer;
 }
 
+a:visited{
+  color:#466995;
+}
+
 a:hover{
   text-decoration: none;
   color: #000080;
